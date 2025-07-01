@@ -12,8 +12,8 @@
 | Task | Title                        | Colab Notebook | Demo Video |
 |------|------------------------------|----------------|-------------|
 | Task 1 | Iris Flower Classification   | ✅              | [Watch](https://youtu.be/TpT87xsdqU0) |
-| Task 2 | Car Price Prediction         | ✅              | [Watch](https://youtu.be/kwjrlFj3rEs) |
-| Task 3 | Email Spam Detection         | ✅              | [Watch](https://youtu.be/-r5wjnvfvXQ) |
+| Task 3 | Car Price Prediction         | ✅              | [Watch](https://youtu.be/kwjrlFj3rEs) |
+| Task 4 | Email Spam Detection         | ✅              | [Watch](https://youtu.be/-r5wjnvfvXQ) |
 
 ---
 
@@ -24,14 +24,14 @@ The model was trained on sample data and tested for accuracy using machine learn
 
 ---
 
-## Task 2: Car Price Prediction
+## Task 3: Car Price Prediction
 
 Developed a regression model that predicts car prices based on features like fuel type, transmission, mileage, and seller type.  
 Performed data preprocessing and trained the model to make accurate price estimations.
 
 ---
 
-## Task 3: Email Spam Detection
+## Task 4: Email Spam Detection
 
 Created a binary classification model to detect whether an email is spam or not.  
 Cleaned the dataset and applied NLP techniques to classify emails using machine learning.
